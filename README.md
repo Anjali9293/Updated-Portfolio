@@ -35,6 +35,10 @@ The webpage renders well on variety of devices and windows or screen sizes.The w
 
 - Webiste uses custom CSS to style the footer.
 
+Click the link below to view the deployed application 
+
+[Github Page](https://anjali9293.github.io/Updated-Portfolio/.)
+
 
 ## Contributers
 
