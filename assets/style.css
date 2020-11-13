@@ -2,6 +2,11 @@ html {
     height: calc(100% - 60px); /* Calculated height used for stickyfooter to not go over */
 }
 
+img {
+    height:200px;
+    width:200px;
+}
+
 body {
     height:100%; /*used to setting the main to full page */
     margin-bottom: 60px; /* Margin bottom by footer height */
@@ -24,3 +29,12 @@ body {
     background-image: url(https://cdn.pixabay.com/photo/2017/10/15/08/56/blue-2852879__340.jpg); /* setting background image of the main */
     background-size: 100%; /* setting background size for image in main */
 }
+
+a {
+        color: black;
+}
+
+/* .portfolio {
+    height:200px!important;
+    width:200px!important;
+} */
